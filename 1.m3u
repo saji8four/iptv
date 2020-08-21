@@ -426,11 +426,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 #EXTINF:-1 group-title="TEMP",E24
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
 
-#EXTINF:-1 #EXTINF:-1 group-title="NDIAN",Housefull Movies
+#EXTINF:-1 #EXTINF:-1 group-title="INDIAN",Housefull Movies
 https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
-#EXTINF:-1 #EXTINF:-1 group-title="NDIAN",Maha Movie
+#EXTINF:-1 #EXTINF:-1 group-title="INDIAN",Maha Movie
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
-#EXTINF:-1 #EXTINF:-1 group-title="NDIAN",Bollywood Premier
+#EXTINF:-1 #EXTINF:-1 group-title="INDIAN",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="SPORTS",Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
@@ -446,14 +446,12 @@ https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?protocol=hls
 #EXTINF:0 tvg-logo="ext" group-title="SPORTS",PTV Sports
 http://pioneer.anytv.live:8080/ptvsp/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="INDIAN",Sony_Pix_HD
 http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54057?play_token=eyiNZ5SJw0&token=GRdRWUpbQV9BVQwCUAJbU1VXClEEU1cHBgFVBFQAAQVSB1gAAQoFAAARFEQQFxAGVQxnD1YVCVQHU1EFHEFNQgdHZlFdEVlHUgoMUldVVEEYQ0wPX1IRWwJWXQUEUgwJVgEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="SPORTS",Sony Ten1 
 http://103.194.169.115:25461/1E5mc4ZUha/5TTeiw5UAL/54249?play_token=Db4goqDLE5&token=GRdRWUpbQV9BVQkHWlVRB1IEDQMLAQBSUlMAAABXWwdbB1haD1FaUwYRFEQQFxAGVQxnD1YVCVQHUVALHEFNQgdHZlFdEVlHUgoMUldVVEEYQ0wPX1IRWwJWXQUEUgsIVgMVGklaB0dZEQFUWlRATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFRW1ANQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFpRUVMWHA==
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="SPORTS",Sony TEN2 HD
 http://103.194.169.115:25461/tnlhhdl/Okj4KocP5L/54248?play_token=7KAHSvTulJ&token=GRdRWUpbQV9BCwpVAFNbBlYDDQJUVFFUVQdTUAhSWQdWBw4KCgVaVwARFEQQFxAGVQxnD1YVCVQHUVAKHEFNQgdHZlFdEVlHUgYKVFNSW0EYQ0wPX1IRWwJWXQUCUwkDUQUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_ESPN_HD.png?raw=true" group-title="SPORTS",ESPN HD
-http://185.93.2.159:25461/DAb5jP2Jls/J68lKLexS5/56199?play_token=fwRDXleVfB&token=GRdRWUpbQV9BUQ9fVgEBVgYFXlBUVgJVAVNcUVRQAQhXBggLXwpbXFQRFEQQFxAGVQxnD1YVCVQFUl0LHEFNQgdHZlFdEVlHUgUNUFFVWkEYQ0wPX1IRWwJWXQUBUw4AUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="INDIAN",&xplorHD 
 https://wserials.com/live-and-xplor-hd.m3u8
 
